@@ -6,7 +6,7 @@ from datetime import datetime
 # Button Code - down: 0x300ff4ab5
 # Button Code - right: 0x300ff5aa5
 # Button Code - left: 0x300ff10ef
-# Button Code - okk: 0x30
+# Button Code - okk: 0x300ff38c7
 
 pin = 17
 Buttons = [0x300ff18e7, 0x300ff4ab5, 0x300ff5aa5, 0x300ff10ef, 0x300ff38c7, 0x3] 
